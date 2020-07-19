@@ -54,7 +54,7 @@
 ```
 
 <h2 id="license">📜️ License</h2>
-<div style="display: flex; justify-content: space-between">
+<div>
   <div>
     This project is under license from MIT. See the <a href="">LICENSE</a> file for more details.
   </div>
@@ -63,14 +63,5 @@
   </div>
 </div>
 
-<footer>
-  =
-  <div style="display: flex; align-items: center">
-    <p style="margin: 0">Developed with 💙️ by Misael Augusto</p>
-    <img
-      alt="Profile Photo"
-      src="https://ik.imagekit.io/ocq8ayf2ug/profile_h_IPLF32A.png"
-      style="width: 40px; height: 40px; border-radius: 50%; margin-left: 16px"
-    >
-  </div>
-</footer>
+---
+<p>Developed with 💙️ by Misael Augusto</p>
