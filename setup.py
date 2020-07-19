@@ -7,7 +7,6 @@ base = None
 if sys.platform == 'win32':
     base = None
 
-
 executables = [Executable("game.py", base=base)]
 
 packages = ["pygame"]
@@ -16,7 +15,6 @@ options = {
 
         'packages':packages,
     },
-
 }
 
 setup(
