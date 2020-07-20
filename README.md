@@ -5,6 +5,7 @@
   <a href="#preview">Preview</a> |
   <a href="#technologies">Technologies</a> |
   <a href="#how-to-use">How to use</a> |
+  <a href="#info">Additional Information</a> |
   <a href="#license">License</a>
 </div>
 
@@ -53,10 +54,23 @@
   python game.py
 ```
 
+<h2 id="info">📌️ Additional Information</h2>
+<h3 id="status">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔎️ Project Status</h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is </p>
+
+<h3 id="contributing">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊️ Contributing</h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is </p>
+
+<h3 id="suport-feedback">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬️ Support and Feedback</h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is </p>
+
 <h2 id="license">📜️ License</h2>
 <div>
   <div>
-    This project is under license from MIT. See the <a href="">LICENSE</a> file for more details.
+    This project is under license from MIT. See the <a href="https://github.com/MisaelAugusto/Click-Blocks/blob/master/LICENSE">LICENSE</a> file for more details.
   </div>
   <div align="right">
     <a href="#title">Back to top ⬆️</a>
