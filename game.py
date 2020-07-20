@@ -1,9 +1,11 @@
+#!/usr/bin/python
+
 import pygame
 from pygame.locals import *
 from random import *
 
 pygame.init()
-pygame.display.set_caption("1_Joguinho")
+pygame.display.set_caption("Click Blocks")
 
 screen = pygame.display.set_mode((600, 500), 0, 32)
 
