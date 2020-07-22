@@ -1,3 +1,5 @@
+<img align="center" src="https://ik.imagekit.io/ocq8ayf2ug/cover_fEzksxh5C.png" alt="Cover" />
+
 <h1 id="title" align="center">Click Blocks</h1>
 
 <div align="center">
@@ -72,7 +74,7 @@ To contribute to the project in any way, it is only necessary to follow the inst
 <h2 id="license">📜️ License</h2>
 <div>
   <div>
-    This project is under license from MIT. See the <a href="https://github.com/MisaelAugusto/Click-Blocks/blob/master/LICENSE">LICENSE</a> file for more details.
+    This project is under license from MIT. See the <a href="LICENSE">LICENSE</a> file for more details.
   </div>
   <div align="right">
     <a href="#title">Back to top ⬆️</a>
