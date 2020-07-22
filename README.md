@@ -15,7 +15,8 @@
 </p>
 
 <h2 id="preview">📽️ Preview</h2>
-<p>Working on it ...</p>
+
+![ClickBlocks](https://ik.imagekit.io/ocq8ayf2ug/click-blocks_aBSDaQtu_.gif)
 
 <h2 id="technologies">💻️ Technologies</h2>
 <ul>
@@ -64,7 +65,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To contribute to the project in any way, it is only necessary to follow the instructions in the above section, make your changes and/or upgrades and send a pull request. I am open to all suggestions.</p>
 
-<h3 id="suport-feedback">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬️ Support and Feedback</h3>
+<h3 id="feedback-support">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬️ Feedback and Support</h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions about the project, how to contribute or want to send me some feedback, feel free to contact me through my e-mail adress clicking <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=misael.costa@ccc.ufcg.edu.br&su=(Feedback or Support) for 'Click Blocks'&tf=1">here</a>.</p>
 
