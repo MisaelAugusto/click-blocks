@@ -51,7 +51,7 @@
 
 ```
   # vá para o diretório do projeto
-  cd Click-Blocks
+  cd click-blocks
 
   # execute o script do jogo
   python game.py
@@ -64,7 +64,7 @@
 
 <h3 id="contributing">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊️ Contribuição</h3>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para contribuir com o projeto de qualquer forma, é necessário apenas seguir as instruções na seção acima, fazer suas alterações e / ou atualizações e enviar um 'pull request'. Estou aberto a todas as sugestões!</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para contribuir com o projeto de qualquer forma, é necessário realizar um 'fork' do repositório e seguir as instruções da seção acima, fazer suas alterações e / ou atualizações e enviar um 'pull request'. Estou aberto a todas as sugestões!</p>
 
 <h3 id="feedback-support">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬️ Comentários e Suporte</h3>
 <p>
