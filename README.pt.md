@@ -41,10 +41,10 @@
 
 ```
   # Se você usa HTTPS
-  git clone https://github.com/MisaelAugusto/Click-Blocks.git
+  git clone https://github.com/MisaelAugusto/click-blocks.git
 
   # Se você usa SSH
-  git clone git@github.com:MisaelAugusto/Click-Blocks.git
+  git clone git@github.com:MisaelAugusto/click-blocks.git
 ```
 
 <h3>3. Execute o projeto:</h3>
